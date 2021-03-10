@@ -1,5 +1,5 @@
 ---
-title: A Few Things I Wish I Had Knwon Before I Moved to New York
+title: Some Things I Wish I Had Knwon Before I Moved to New York
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
