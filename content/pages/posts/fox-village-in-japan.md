@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: Rocket Formula
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
